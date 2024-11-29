@@ -11,7 +11,7 @@ int main (){
     printf("Enter name:");
     scanf("%s",s1.name);
     printf("Enter age:");
-    scanf("%d", &s1.age);
+    scanf("%d", &s1.age:");
     printf("Enter gender:");
     scanf("%f", &s1.gender);
     printf("Ente college:");
